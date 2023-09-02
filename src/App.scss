@@ -1,0 +1,17 @@
+body {
+  background-color: #e8ddb5;
+  display: flex;
+  justify-content: center;
+}
+
+.todo {
+  background-color: white;
+  box-shadow: 8px 8px 5px rgb(202, 190, 190);
+  width: 500px;
+  padding: 20px;
+  margin-top: 50px;
+
+  h1 {
+    text-align: center;
+  }
+}
